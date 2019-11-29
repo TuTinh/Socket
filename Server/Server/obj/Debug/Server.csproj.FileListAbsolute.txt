@@ -1,0 +1,37 @@
+D:\C#\BT System Operate\Server\Server\bin\Debug\Server.exe.config
+D:\C#\BT System Operate\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\C#\BT System Operate\Server\Server\obj\Debug\Server.Form1.resources
+D:\C#\BT System Operate\Server\Server\obj\Debug\Server.Properties.Resources.resources
+D:\C#\BT System Operate\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+D:\C#\BT System Operate\Server\Server\bin\Debug\Server.exe
+D:\C#\BT System Operate\Server\Server\bin\Debug\Server.pdb
+D:\C#\BT System Operate\Server\Server\obj\Debug\Server.exe
+D:\C#\BT System Operate\Server\Server\obj\Debug\Server.pdb
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\bin\Debug\Server.exe.config
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\bin\Debug\Server.exe
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\bin\Debug\Server.pdb
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\obj\Debug\Server.exe
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\obj\Debug\Server.pdb
+C:\Users\TAN\Desktop\Socket\New folder\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\bin\Debug\Server.exe.config
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\bin\Debug\Server.exe
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\bin\Debug\Server.pdb
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\obj\Debug\Server.exe
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\obj\Debug\Server.pdb
+C:\Users\TAN\Desktop\Socket\Perfect\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\bin\Debug\Server.exe.config
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\obj\Debug\Server.exe
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\obj\Debug\Server.pdb
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\bin\Debug\Server.exe
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\bin\Debug\Server.pdb
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\obj\Debug\Server.Form1.resources
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\TuTinh\Desktop\Perfect\Server\Server\bin\Debug\MaterialSkin.dll

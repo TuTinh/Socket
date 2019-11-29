@@ -1,0 +1,9 @@
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\bin\Debug\MaterialSkin.dll
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\obj\Debug\Messager.csproj.GenerateResource.Cache
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\TuTinh\Desktop\Perfect\Client\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
